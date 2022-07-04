@@ -1,0 +1,109 @@
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\Projectxxii.exe.config
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\Projectxxii.exe
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\Projectxxii.pdb
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\MySqlConnector.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Buffers.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Memory.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Numerics.Vectors.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\MySqlConnector.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Buffers.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Memory.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Numerics.Vectors.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\gleve\Desktop\Projectxxii\obj\Release\Projectxxii.addNewFood.resources
+C:\Users\gleve\Desktop\Projectxxii\obj\Release\Projectxxii.loginForm.resources
+C:\Users\gleve\Desktop\Projectxxii\obj\Release\Projectxxii.Properties.Resources.resources
+C:\Users\gleve\Desktop\Projectxxii\obj\Release\Projectxxii.mainForm.resources
+C:\Users\gleve\Desktop\Projectxxii\obj\Release\Projectxxii.csproj.GenerateResource.cache
+C:\Users\gleve\Desktop\Projectxxii\obj\Release\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\gleve\Desktop\Projectxxii\obj\Release\Projectxxii.csproj.CopyComplete
+C:\Users\gleve\Desktop\Projectxxii\obj\Release\Projectxxii.exe
+C:\Users\gleve\Desktop\Projectxxii\obj\Release\Projectxxii.pdb
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\Projectxxii.exe.config
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\Projectxxii.exe
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\Projectxxii.pdb
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\MySqlConnector.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Buffers.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Memory.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Numerics.Vectors.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\MySqlConnector.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Buffers.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Memory.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Numerics.Vectors.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.csproj.AssemblyReference.cache
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.NewFood.resources
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.loginForm.resources
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.Properties.Resources.resources
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.mainForm.resources
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.csproj.GenerateResource.cache
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.csproj.CopyComplete
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.exe
+C:\Users\rolan\Desktop\Projectxxii\obj\Release\Projectxxii.pdb
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\Projectxxii.exe.config
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\Projectxxii.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\Projectxxii.pdb
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\MySqlConnector.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Buffers.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Memory.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Numerics.Vectors.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\MySqlConnector.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Buffers.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Memory.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Numerics.Vectors.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.NewFood.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.loginForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.Properties.Resources.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.mainForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.csproj.GenerateResource.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.csproj.CopyComplete
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.pdb
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Release\Projectxxii.csproj.AssemblyReference.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\Étterem szerkesztő alkalmazás.exe.config
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\Étterem szerkesztő alkalmazás.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\Étterem szerkesztő alkalmazás.pdb
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\MySqlConnector.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Buffers.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Memory.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Numerics.Vectors.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\MySqlConnector.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Buffers.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Memory.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Numerics.Vectors.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Projectxxii.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Projectxxii.NewFood.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Projectxxii.loginForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Projectxxii.Properties.Resources.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Projectxxii.mainForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Projectxxii.csproj.GenerateResource.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Projectxxii.csproj.CopyComplete
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Étterem szerkesztő alkalmazás.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Release\Étterem szerkesztő alkalmazás.pdb

@@ -1,0 +1,213 @@
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\Projectxxii.exe.config
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\Projectxxii.exe
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\Projectxxii.pdb
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\MySqlConnector.dll
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Buffers.dll
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Memory.dll
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\MySqlConnector.xml
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Buffers.xml
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Memory.xml
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gacs.levente\Desktop\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gacs.levente\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.AssemblyReference.cache
+C:\Users\gacs.levente\Desktop\Projectxxii\obj\Debug\Projectxxii.Form1.resources
+C:\Users\gacs.levente\Desktop\Projectxxii\obj\Debug\Projectxxii.Properties.Resources.resources
+C:\Users\gacs.levente\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.GenerateResource.cache
+C:\Users\gacs.levente\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\gacs.levente\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.CopyComplete
+C:\Users\gacs.levente\Desktop\Projectxxii\obj\Debug\Projectxxii.exe
+C:\Users\gacs.levente\Desktop\Projectxxii\obj\Debug\Projectxxii.pdb
+D:\Projectxxii\obj\Debug\Projectxxii.csprojAssemblyReference.cache
+D:\Projectxxii\obj\Debug\Projectxxii.Form1.resources
+D:\Projectxxii\obj\Debug\Projectxxii.Properties.Resources.resources
+D:\Projectxxii\obj\Debug\Projectxxii.csproj.GenerateResource.cache
+D:\Projectxxii\obj\Debug\Projectxxii.csproj.CoreCompileInputs.cache
+D:\Projectxxii\obj\Debug\Projectxxii.exe
+D:\Projectxxii\obj\Debug\Projectxxii.pdb
+D:\Projectxxii\bin\Debug\Projectxxii.exe.config
+D:\Projectxxii\bin\Debug\Projectxxii.exe
+D:\Projectxxii\bin\Debug\Projectxxii.pdb
+D:\Projectxxii\bin\Debug\MySqlConnector.dll
+D:\Projectxxii\bin\Debug\System.Buffers.dll
+D:\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projectxxii\bin\Debug\System.Memory.dll
+D:\Projectxxii\bin\Debug\System.Numerics.Vectors.dll
+D:\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projectxxii\bin\Debug\MySqlConnector.xml
+D:\Projectxxii\bin\Debug\System.Buffers.xml
+D:\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projectxxii\bin\Debug\System.Memory.xml
+D:\Projectxxii\bin\Debug\System.Numerics.Vectors.xml
+D:\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projectxxii\obj\Debug\Projectxxii.csproj.CopyComplete
+E:\Projectxxii\bin\Debug\Projectxxii.exe.config
+E:\Projectxxii\bin\Debug\Projectxxii.exe
+E:\Projectxxii\bin\Debug\Projectxxii.pdb
+E:\Projectxxii\bin\Debug\MySqlConnector.dll
+E:\Projectxxii\bin\Debug\System.Buffers.dll
+E:\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Projectxxii\bin\Debug\System.Memory.dll
+E:\Projectxxii\bin\Debug\System.Numerics.Vectors.dll
+E:\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Projectxxii\bin\Debug\MySqlConnector.xml
+E:\Projectxxii\bin\Debug\System.Buffers.xml
+E:\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Projectxxii\bin\Debug\System.Memory.xml
+E:\Projectxxii\bin\Debug\System.Numerics.Vectors.xml
+E:\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projectxxii\obj\Debug\Projectxxii.csprojAssemblyReference.cache
+E:\Projectxxii\obj\Debug\Projectxxii.Properties.Resources.resources
+E:\Projectxxii\obj\Debug\Projectxxii.csproj.GenerateResource.cache
+E:\Projectxxii\obj\Debug\Projectxxii.csproj.CoreCompileInputs.cache
+E:\Projectxxii\obj\Debug\Projectxxii.csproj.CopyComplete
+E:\Projectxxii\obj\Debug\Projectxxii.exe
+E:\Projectxxii\obj\Debug\Projectxxii.pdb
+E:\Projectxxii\obj\Debug\Projectxxii.Belépés.resources
+E:\Projectxxii\obj\Debug\Projectxxii.UI.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\Projectxxii.exe.config
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\Projectxxii.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\Projectxxii.pdb
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\MySqlConnector.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Buffers.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Memory.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\MySqlConnector.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Buffers.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Memory.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.Properties.Resources.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.csproj.GenerateResource.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.csproj.CopyComplete
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.pdb
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.AssemblyReference.cache
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.addNewFood.resources
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.Properties.Resources.resources
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.GenerateResource.cache
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.exe
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.pdb
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\Projectxxii.exe.config
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\Projectxxii.exe
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\Projectxxii.pdb
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\MySqlConnector.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Buffers.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Memory.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\MySqlConnector.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Buffers.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Memory.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gleve\Desktop\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.CopyComplete
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.loginForm.resources
+C:\Users\gleve\Desktop\Projectxxii\obj\Debug\Projectxxii.mainForm.resources
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\Projectxxii.exe.config
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\Projectxxii.exe
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\Projectxxii.pdb
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\MySqlConnector.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Buffers.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Memory.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\MySqlConnector.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Buffers.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Memory.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rolan\Desktop\Projectxxii\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.AssemblyReference.cache
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.loginForm.resources
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.Properties.Resources.resources
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.mainForm.resources
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.GenerateResource.cache
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.csproj.CopyComplete
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.exe
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.pdb
+C:\Users\rolan\Desktop\Projectxxii\obj\Debug\Projectxxii.NewFood.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.NewFood.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.loginForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.mainForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\Projectxxii\obj\Debug\Projectxxii.csproj.AssemblyReference.cache
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\Projectxxii.exe.config
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\Projectxxii.exe
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\Projectxxii.pdb
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\MySqlConnector.dll
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Buffers.dll
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Memory.dll
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\MySqlConnector.xml
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Buffers.xml
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Memory.xml
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\foldes.roland\Desktop\ProjectXXII\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.csprojAssemblyReference.cache
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.NewFood.resources
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.loginForm.resources
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.Properties.Resources.resources
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.mainForm.resources
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.csproj.GenerateResource.cache
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.csproj.CopyComplete
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.exe
+C:\Users\foldes.roland\Desktop\ProjectXXII\obj\Debug\Projectxxii.pdb
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\Étterem szerkesztő alkalmazás.exe.config
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\Étterem szerkesztő alkalmazás.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\Étterem szerkesztő alkalmazás.pdb
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\MySqlConnector.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Buffers.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Memory.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\MySqlConnector.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Buffers.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Memory.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Projectxxii.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Projectxxii.NewFood.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Projectxxii.loginForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Projectxxii.Properties.Resources.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Projectxxii.mainForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Projectxxii.csproj.GenerateResource.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Projectxxii.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Projectxxii.csproj.CopyComplete
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Étterem szerkesztő alkalmazás.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali\obj\Debug\Étterem szerkesztő alkalmazás.pdb

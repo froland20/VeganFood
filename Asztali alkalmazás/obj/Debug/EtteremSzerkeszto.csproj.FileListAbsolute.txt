@@ -1,0 +1,27 @@
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\Étterem szerkesztő alkalmazás.exe.config
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\Étterem szerkesztő alkalmazás.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\Étterem szerkesztő alkalmazás.pdb
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\MySqlConnector.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Buffers.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Memory.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\MySqlConnector.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Buffers.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Memory.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\EtteremSzerkeszto.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\EtteremSzerkeszto.NewFood.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\EtteremSzerkeszto.loginForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\EtteremSzerkeszto.Properties.Resources.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\EtteremSzerkeszto.mainForm.resources
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\EtteremSzerkeszto.csproj.GenerateResource.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\EtteremSzerkeszto.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\EtteremSzerkeszto.csproj.CopyComplete
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\Étterem szerkesztő alkalmazás.exe
+C:\Users\rolan\OneDrive\Schola projektek\Vizsgamunka\asztali2\obj\Debug\Étterem szerkesztő alkalmazás.pdb
